@@ -1,0 +1,63 @@
+body{
+    background-color: #F1f0ed;
+}
+
+
+.blogcontainer{
+    width: 90%;
+    height: 50vh;
+    border: 1px solid 90vh;
+}
+
+.blogcontainer h3{
+    font-size: 2.3rem;
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+    padding-bottom: 2.3rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(134, 126, 126);
+}
+
+.blogcontainer img{
+    width: 100%;
+    margin-left: 4rem;
+    margin-bottom: 4rem;
+}
+
+.blogcontainer p{
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.6rem;
+}
+
+.blogcontainer button{
+    padding: 10px;
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+    border: none;
+    border-radius: 8px;
+    background-color: orange;
+}
+
+.blogcontainer button a{
+    color: #111;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+.blogcontainer button:hover{
+background-color: #011f41;
+padding: 1rem;
+
+}
+
+.blogcontainer button a:hover{
+    color: #F1F0ED;
+    font-size: 1rem;
+}
+
+.blogcontainerseparation{
+    width: 80%;
+    border-bottom: 15px dotted black;
+    margin: 0 auto;
+}
