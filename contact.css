@@ -8,7 +8,7 @@ body{
     max-width: 800px;
     margin-top: 50px;
     padding: 15px;
-    color: teal;
+    color: #011f41;
 
 }
 
@@ -16,12 +16,12 @@ body{
     text-align: center;
     font-size: 1rem;
     margin-bottom: 1rem;
-    color: teal;
+    /* color: teal; */
 }
 
 .container-contact form label{
     display: block;
-    color: teal;
+    /* color: teal; */
     font-size: 24px;
     margin-top: 1.5rem;
 }
@@ -30,17 +30,17 @@ body{
     width: 100%;
     padding: 18px;
     border-radius: 12px;
-    border: 1px solid teal;
+    border: 1px solid #011f41;
 }
 
 .container-contact form input, .container-contact form textarea:focus{
     outline: none;
-    border: 1px solid teal;
+    border: 1px solid #011f41;
 }
 
 .container-contact form button{
     color: white;
-    background: teal;
+    background: #011f41;
     padding: 15px 20px;
     border: none;
     margin-top: 25px;
@@ -49,5 +49,5 @@ body{
 
 .container-contact form button:hover{
     font-size: 15px;
-    background-color: rgb(50, 160, 160);
+    background-color:  rgb(4, 167, 104);;
 }

@@ -1,0 +1,1 @@
+alert("Salut, Ne vous paniquez pas, car cette platforme est en cours de devloppement....Vous aurez toutes les informations necessaires sur les differents sites touristiques d'haiti et les jours de visite en temps reel")
